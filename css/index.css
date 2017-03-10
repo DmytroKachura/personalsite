@@ -1,0 +1,62 @@
+
+#panel {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #dddddd;
+}
+#items {
+          font-family: 'Orbitron', sans-serif;
+    float: right;
+    border-right: 2px solid #bbb;
+    display: block;
+    padding: 7px;
+    background-color: #dddddd;
+}
+#wallpaper1 {
+    Width: 100%
+}
+#maintext {
+    font-family: 'Pacifico', cursive;
+}
+.image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+
+h1 { 
+    width: 100%;
+	text-align: center;
+	position	: absolute;
+	top: 275px;
+	left: 0;
+	
+}
+#myphoto {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+p {
+    font-family: 'Baloo', cursive;
+}
+h3 {
+    padding-left: 20px;
+}
+#contacts {
+    margin-bottom: 0;
+    background-color: brown;
+    
+}
+#number {
+    padding-left: 10px;
+}
+footer {
+    margin-top: 0;
+    background-color: black;
+}
+
+    
+
+
+
+
