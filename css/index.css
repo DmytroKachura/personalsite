@@ -79,7 +79,10 @@ footer {
     width: 6%;
     margin-left: 15px;
 }
+figcaption {
+    text-align: center
     
+}
 
 
 
