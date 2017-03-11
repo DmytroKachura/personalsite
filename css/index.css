@@ -15,19 +15,26 @@
 #wallpaper1 {
     Width: 100%
 }
+#main {
+       background-image: url(wallpaer.jpg);
+       background-color: darkorange;
+    background-position: center center;
+    background-size: cover;
+    height: 656px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 #maintext {
-    font-family: 'Pacifico', cursive;
+     font-family: 'Pacifico', cursive;
+     
+      
+    
 }
-.image {
-	position	: relative;
-	width		: 100%; /* for IE 6 */
-}
-
 h1 { 
     width: 100%;
 	text-align: center;
-	position	: absolute;
-	top: 275px;
 	left: 0;
 	
 }
@@ -43,18 +50,35 @@ h3 {
     padding-left: 20px;
 }
 #contacts {
-    margin-bottom: 0;
-    background-color: brown;
+    
+    background-color: YellowGreen	;
     
 }
 #number {
     padding-left: 10px;
+    margin-bottom: 0px;
 }
 footer {
-    margin-top: 0;
+    margin:0 auto;
     background-color: black;
 }
-
+#footer {
+    color: white;
+    margin:0 auto;
+    margin-left: 10px;
+}
+#vk {
+    width: 7%;
+    margin-left: 10px;
+}
+#fb {
+    width: 7%;
+    margin-left: 10px;
+}
+#gh {
+    width: 6%;
+    margin-left: 15px;
+}
     
 
 
