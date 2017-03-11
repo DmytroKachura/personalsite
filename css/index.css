@@ -83,6 +83,9 @@ figcaption {
     text-align: center;
     
 }
+ * {
+    max-width: 4000px;
+}
 
 
 
