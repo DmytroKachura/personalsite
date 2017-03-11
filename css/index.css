@@ -38,9 +38,10 @@ h1 {
 	
 }
 #myphoto {
+    width: 100%;
     border-radius: 50%;
     border: 1px solid #ddd;
-    
+    padding: 5px;
 }
 p {
     font-family: 'Baloo', cursive;
