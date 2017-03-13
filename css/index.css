@@ -2,19 +2,29 @@
 #panel {
     list-style-type: none;
     overflow: hidden;
-    background-color: #dddddd;
+    background-color: black;
 }
 #items {
           font-family: 'Orbitron', sans-serif;
     float: right;
-    border-right: 2px solid #bbb;
+    border-right: 2px solid darkorange;
     display: block;
     padding: 7px;
-    background-color: #dddddd;
+    background-color: black;
 }
+
 #wallpaper1 {
     Width: 100%
 }
+.smooth {
+    color: darkorange; 
+   }
+    .smooth:visited { 
+    color: darkorange; 
+   }
+   .smooth:hover {
+    color: darkgrey; 
+   }
 #main {
        background-color: darkorange;
     background-position: center center;
